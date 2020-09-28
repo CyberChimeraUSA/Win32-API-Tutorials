@@ -1,0 +1,10 @@
+1) Change to x64
+2) Turn Off Unicode
+3) Add Process to Debug Path
+
+Run 1: Demonstrates Single Stepping (Prints Instruction Pointer)
+Run 2: Demonstrates how to Toggle Single Stepping
+
+Citation: 
+code base:
+http://www.debuginfo.com/examples/dbgexamples.html

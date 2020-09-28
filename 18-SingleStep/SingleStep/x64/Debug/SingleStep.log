@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\geoff\Documents\FutureEndeavors\Youtube\SingleStep\SingleStep\Source.cpp(80,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+C:\Users\geoff\Documents\FutureEndeavors\Youtube\SingleStep\SingleStep\Source.cpp(80,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'HANDLE'
+C:\Users\geoff\Documents\FutureEndeavors\Youtube\SingleStep\SingleStep\Source.cpp(515,10): warning C4477: 'printf' : format string '%08p' requires an argument of type 'void *', but variadic argument 2 has type 'const ULONG_PTR'
+  SingleStep.vcxproj -> C:\Users\geoff\Documents\FutureEndeavors\Youtube\SingleStep\x64\Debug\SingleStep.exe
